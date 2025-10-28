@@ -1,7 +1,7 @@
 # Cronometrador de vueltas
 
 ## Contexto
-En las carreras de [automovilismo chilote](https://www.instagram.com/automovilismochilote/) hace falta un cronometrador de vueltas.
+En las [carreras](https://www.youtube.com/watch?v=4EbD2lrENUA) de [automovilismo chilote](https://www.instagram.com/automovilismochilote/) hace falta un cronometrador de vueltas.
 
 Esta es una implentación en micropython sobre ESP32 y ya veremos que más (web back end). El plan es ponerlo en operación en un carrera antes que acabe el 2025.
 
@@ -32,3 +32,9 @@ Necesitas:
 #### Instalar micropython en el microcontrolador
 
 ```esptool --chip esp32 write_flash -z 0x1000 ~/Downloads/ESP32_GENERIC-20250911-v1.26.1.bin```
+
+
+## Pendientes
+ - Algoritmo rx
+ - Prueba con velocidad
+ - Montura
