@@ -5,7 +5,7 @@ En las carreras de [automovilismo chilote](https://www.instagram.com/automovilis
 
 Esta es una implentación en micropython sobre ESP32 y ya veremos que más (web back end). El plan es ponerlo en operación en un carrera antes que acabe el 2025.
 
-![Diagrama alto nivel](docs/images/diagram_.png "Diagrama alto nivel")
+![Diagrama alto nivel](docs/images/diagram.svg "Diagrama alto nivel")
 
 ## instrucciones para desarrolladores
 ### Setup
